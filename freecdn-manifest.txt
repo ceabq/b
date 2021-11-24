@@ -1,0 +1,67 @@
+https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css
+	https://ajax.cdnjs.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css
+	https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css
+	https://cdnjs.loli.net/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css
+	https://lib.baomitu.com/twitter-bootstrap/4.6.0/css/bootstrap.min.css
+	https://cdn.staticfile.org/twitter-bootstrap/4.6.0/css/bootstrap.min.css
+	https://cdn.bootcss.com/twitter-bootstrap/4.6.0/css/bootstrap.min.css
+	https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css
+	https://g.alicdn.com/code/lib/twitter-bootstrap/4.6.0/css/bootstrap.min.css
+	https://ajax.aspnetcdn.com/ajax/bootstrap/4.6.0/css/bootstrap.min.css
+	hash=T/zFmO5s/0aSwc6ics2KLxlfbewyRz6UNw1s3Ppf5gE=
+
+https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js
+	https://ajax.cdnjs.com/ajax/libs/jquery/3.4.1/jquery.min.js
+	https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/jquery/3.4.1/jquery.min.js
+	https://cdnjs.loli.net/ajax/libs/jquery/3.4.1/jquery.min.js
+	https://lib.baomitu.com/jquery/3.4.1/jquery.min.js
+	https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js
+	https://cdn.bootcdn.net/ajax/libs/jquery/3.4.1/jquery.min.js
+	https://unpkg.com/jquery@3.4.1/dist/jquery.min.js
+	https://g.alicdn.com/code/lib/jquery/3.4.1/jquery.min.js
+	https://pagecdn.io/lib/jquery/3.4.1/jquery.min.js
+	https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.4.1.min.js
+	https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+	https://code.jquery.com/jquery-3.4.1.min.js
+	hash=CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=
+
+https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js
+	https://ajax.cdnjs.com/ajax/libs/jquery/3.6.0/jquery.min.js
+	https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/jquery/3.6.0/jquery.min.js
+	https://cdnjs.loli.net/ajax/libs/jquery/3.6.0/jquery.min.js
+	https://lib.baomitu.com/jquery/3.6.0/jquery.min.js
+	https://cdn.staticfile.org/jquery/3.6.0/jquery.min.js
+	https://cdn.bootcss.com/jquery/3.6.0/jquery.min.js
+	https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js
+	https://unpkg.com/jquery@3.6.0/dist/jquery.min.js
+	https://g.alicdn.com/code/lib/jquery/3.6.0/jquery.min.js
+	https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.6.0.min.js
+	https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+	https://code.jquery.com/jquery-3.6.0.min.js
+	hash=/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=
+
+https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js
+	https://ajax.cdnjs.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js
+	https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js
+	https://cdnjs.loli.net/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js
+	https://lib.baomitu.com/twitter-bootstrap/4.6.0/js/bootstrap.min.js
+	https://cdn.staticfile.org/twitter-bootstrap/4.6.0/js/bootstrap.min.js
+	https://cdn.bootcss.com/twitter-bootstrap/4.6.0/js/bootstrap.min.js
+	https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js
+	https://g.alicdn.com/code/lib/twitter-bootstrap/4.6.0/js/bootstrap.min.js
+	hash=7dA7lq5P94hkBsWdff7qobYkp9ope/L5LQy2t/ljPLo=
+
+https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
+	https://ajax.cdnjs.com/ajax/libs/typed.js/2.0.12/typed.min.js
+	https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/typed.js/2.0.12/typed.min.js
+	https://cdnjs.loli.net/ajax/libs/typed.js/2.0.12/typed.min.js
+	https://lib.baomitu.com/typed.js/2.0.12/typed.min.js
+	https://cdn.staticfile.org/typed.js/2.0.12/typed.min.js
+	https://cdn.bootcss.com/typed.js/2.0.12/typed.min.js
+	https://cdn.bootcdn.net/ajax/libs/typed.js/2.0.12/typed.min.js
+	hash=UVQ5HtHTmtqBT3KY5cd4AvI47pp0gJwIM+q45HD9oLk=

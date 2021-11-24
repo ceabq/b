@@ -1,0 +1,9 @@
+https://at.alicdn.com/t/font_1749284_ba1fz6golrf.css
+https://cdn-city.livere.com/js/embed.dist.js
+https://at.alicdn.com/t/font_1736178_kmeydafke9r.css
+https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css
+https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js
+https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js
+https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css
+https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js
+https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
