@@ -75,6 +75,6 @@ https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
 	hash=1048576;ZhmoA/QO/mvPEDr4axCgKg0S/ycyelXCYXh2cFjgptU=,JXK0FtqfJ3YnbZd2t84M1P4c45npicTJnq/EU8funDI=,Z9Aeg2wZrixIL0aAT/zwmFj8pc+GoAomu1xiDa3h99w=,e6bWBeyz0WCO7ADJxXodNOO87rEiEYCvIGLWKy1PsMw=,BsUkSrvinEhusbnes2q1eC26hPNxbPC+OLI0aQRfhv0=,UhufgvklheH6gd2RgGuPbC9zuH1C3JjR4stqJUfTRBY=,rgCigAj6YGjzPPHHm6RSCjm8UDLGVpBgQ3m87My+Kx4=,lPX6Pn7hiFOMKzzLsgFxMqQOOjWnGaQmBPGw1+JNPqw=,/DgH36O45awFlBTume9NKSOR9nGywM7SB3KzgbIg4bo=,mrZGosx3waOzeFv/SJqNw9FqavSB/cvhvPynlqv5Sjo=,/gzx4+UzClVHKgaNBj04RmMPDhf346a6LZpMoVIBKEQ=,UT9x67BM1/HDu6ymF0IAokB3InPPE2YCdI2a933XVBM=,MBDw+G55p3FMPPnN1LSiLfrI2/sAK2ssZSSMeEeM4bs=,1tdXzN0AHoBEWGymdSAy3sBu5WJAkKKyVKhsymtsErg=,CqW20mUu9xshcbpM9uzVLriLK+W6BHTM+yfhgOXcCJI=,FZ8ePhzpzS6RBODAE+EdcxvSfj2IuysHmzaTowdFtzk=,yxKvQn7ZnTNX8ZocwPxnf0UtQd9JpCyZj0j0p+3WCTQ=,EO+inRl1rBlU2+Y+qb+Ib3Q2ThWAKcVspkviROsuqFQ=
 	size=18866476
 
-/cftest/index.html
+/cftest/
 	https://ceabq.top/cftest/
 	hash=mjqqEWqeuNxQCvDNgtfSXzFTwTcIGqedbhJJFmKwefc=
