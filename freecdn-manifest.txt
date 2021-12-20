@@ -76,3 +76,7 @@ https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
 	size=18866476
 /cftest/index.html
        https://ceabq.top/cftest/index.html
+       
+/cftest/
+       https://ceabq.top/cftest/index.html
+# SIGN: iVGEJaIVHm55GSnpVE69feZmYPDgIkRFzjXuMJbUGIDbv8l0RdVMn+bMKwXDzzmuWdLNM/nf2RInjysF/QSt8g==
