@@ -76,7 +76,6 @@ https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
 	size=18866476
 
 /cftest/
-	https://ceabq.top/cftest/
 	hash=mjqqEWqeuNxQCvDNgtfSXzFTwTcIGqedbhJJFmKwefc=
 
 /favicon.ico
