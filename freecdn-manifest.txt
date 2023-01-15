@@ -78,10 +78,10 @@ https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
 
 /favicon.ico
 	https://ceabq.top/favicon.ico
-	https://bstore.ceabq.top/site_assets/favicon.ico
+	https://bstore.ceabq.top/blog_site/site_assets/favicon.ico
 	hash=T64eLxlJXC3qa2sGSqcykbTA9q8rutxmYNjDq2sPpOE=
 
 /img/favicon.ico
 	https://ceabq.top/favicon.ico
-	https://bstore.ceabq.top/site_assets/favicon.ico
+	https://bstore.ceabq.top/blog_site/site_assets/favicon.ico
 	hash=T64eLxlJXC3qa2sGSqcykbTA9q8rutxmYNjDq2sPpOE=
