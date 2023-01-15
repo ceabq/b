@@ -144,3 +144,11 @@ https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
 /js/utils.js
 	https://bstore.ceabq.top/blog_site/site_assets/js/utils.js
 	hash=r6SmX0d6fzkiN8tR98OjlVOIYPLNxKx/riAsK1P/TNU=
+
+/lib/hint/hint.min.css
+	https://bstore.ceabq.top/blog_site/site_assets/lib/hint/hint.min.css
+	hash=0yv5grzIkfMMYN9GEBcLJUDaps6VHD3tfc2v2V6wNOo=
+
+/xml/local-search.xml
+	https://bstore.ceabq.top/blog_site/site_assets/xml/local-search.xml
+	hash=BAPZJX1Xob9YdqYi6apdLr+d1tsp/RGbF8KqJGNQ61c=
