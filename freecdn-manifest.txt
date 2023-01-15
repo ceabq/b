@@ -72,7 +72,7 @@ https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
 	hash=1048576;ZhmoA/QO/mvPEDr4axCgKg0S/ycyelXCYXh2cFjgptU=,JXK0FtqfJ3YnbZd2t84M1P4c45npicTJnq/EU8funDI=,Z9Aeg2wZrixIL0aAT/zwmFj8pc+GoAomu1xiDa3h99w=,e6bWBeyz0WCO7ADJxXodNOO87rEiEYCvIGLWKy1PsMw=,BsUkSrvinEhusbnes2q1eC26hPNxbPC+OLI0aQRfhv0=,UhufgvklheH6gd2RgGuPbC9zuH1C3JjR4stqJUfTRBY=,rgCigAj6YGjzPPHHm6RSCjm8UDLGVpBgQ3m87My+Kx4=,lPX6Pn7hiFOMKzzLsgFxMqQOOjWnGaQmBPGw1+JNPqw=,/DgH36O45awFlBTume9NKSOR9nGywM7SB3KzgbIg4bo=,mrZGosx3waOzeFv/SJqNw9FqavSB/cvhvPynlqv5Sjo=,/gzx4+UzClVHKgaNBj04RmMPDhf346a6LZpMoVIBKEQ=,UT9x67BM1/HDu6ymF0IAokB3InPPE2YCdI2a933XVBM=,MBDw+G55p3FMPPnN1LSiLfrI2/sAK2ssZSSMeEeM4bs=,1tdXzN0AHoBEWGymdSAy3sBu5WJAkKKyVKhsymtsErg=,CqW20mUu9xshcbpM9uzVLriLK+W6BHTM+yfhgOXcCJI=,FZ8ePhzpzS6RBODAE+EdcxvSfj2IuysHmzaTowdFtzk=,yxKvQn7ZnTNX8ZocwPxnf0UtQd9JpCyZj0j0p+3WCTQ=,EO+inRl1rBlU2+Y+qb+Ib3Q2ThWAKcVspkviROsuqFQ=
 	size=18866476
 
-/cftest/
+/cftest/index.html
 	https://bstore.ceabq.top/blog_site/temporary/index.html
 	hash=mjqqEWqeuNxQCvDNgtfSXzFTwTcIGqedbhJJFmKwefc=
 
@@ -85,3 +85,35 @@ https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
 	https://ceabq.top/favicon.ico
 	https://bstore.ceabq.top/blog_site/site_assets/favicon.ico
 	hash=T64eLxlJXC3qa2sGSqcykbTA9q8rutxmYNjDq2sPpOE=
+
+/js/boot.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/boot.js
+	hash=fZ0pAeOmnWrpluz1uWlVXbz0+Vp+SfdJbztiKl/l8Dw=
+
+/js/color-schema.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/color-schema.js
+	hash=Yd9BXwXnaqa+QWfNLKpQJmWEp6ET+VvhVXeX5kJvnFs=
+
+/js/events.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/events.js
+	hash=XY8Uegk3Uc0k4n1GYVKd/21aOXzybKfvU/iyh8E9+3E=
+
+/js/img-lazyload.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/img-lazyload.js
+	hash=Rz/IOkHbA6URVrDSY1hzbWYHBmytKiNVsAh7NBQOjrE=
+
+/js/leancloud.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/leancloud.js
+	hash=8exCHfo170wnFToerpuSonXGC8GDAq3XcaurgEWCBpE=
+
+/js/local-search.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/local-search.js
+	hash=eHMzvoUiFocowmWU+XA+ziRzJloepXl5hU6845HKeeA=
+
+/js/plugins.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/plugins.js
+	hash=uksK4tuqlcis4olZAvBGg4c60KtjqsBKeqhyivZOOjc=
+
+/js/utils.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/utils.js
+	hash=r6SmX0d6fzkiN8tR98OjlVOIYPLNxKx/riAsK1P/TNU=
