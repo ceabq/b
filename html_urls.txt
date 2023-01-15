@@ -1,0 +1,3 @@
+/cftest/
+	hash=mjqqEWqeuNxQCvDNgtfSXzFTwTcIGqedbhJJFmKwefc=
+# SIGN: 5dYBJ2qLCOLnDd4MY2qeqOHlRNBFigP8/l3SNUjRQO+Rvn2my8WyWraTJSOAdgeBIbYUGfj46KMwLNe+RLVeFQ==
