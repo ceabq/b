@@ -92,13 +92,11 @@ https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
 
 /favicon.ico
 	https://ceabq.top/favicon.ico
-	https://bstore.ceabq.top/blog_site/site_assets/favicon.ico
 	https://bstore.ceabq.top/blog_site/site_assets/img/favicon.ico
 	hash=T64eLxlJXC3qa2sGSqcykbTA9q8rutxmYNjDq2sPpOE=
 
 /img/favicon.ico
 	https://ceabq.top/favicon.ico
-	https://bstore.ceabq.top/blog_site/site_assets/favicon.ico
 	https://bstore.ceabq.top/blog_site/site_assets/img/favicon.ico
 	hash=T64eLxlJXC3qa2sGSqcykbTA9q8rutxmYNjDq2sPpOE=
 
@@ -155,8 +153,4 @@ https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/lib/hint/hint.min.css
 	hash=0yv5grzIkfMMYN9GEBcLJUDaps6VHD3tfc2v2V6wNOo=
 
-/xml/local-search.xml
-	https://bstore.ceabq.top/blog_site/site_assets/xml/local-search.xml
-	hash=BAPZJX1Xob9YdqYi6apdLr+d1tsp/RGbF8KqJGNQ61c=
-
-# SIGN: kfpthaj6o//Nv2QzNtDEuSxbyDT8jtD7Ozq+br1Cg3k6kKKuq/TSjCWJQvk0MB3pErwtWLLqIqt5PgEwOpvqjg==
+# SIGN: zp879VCm9p08GbKVXD/T7ZdN3DYB92eV2Dh1p8hL0//xDA7+w+FD3SbPIlA3/rXOTSyzH2tDzllGfghTqoEJ5g==
