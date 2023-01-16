@@ -159,4 +159,4 @@ https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/xml/local-search.xml
 	hash=BAPZJX1Xob9YdqYi6apdLr+d1tsp/RGbF8KqJGNQ61c=
 
-# SIGN: deOIecMwIalwWRTWE+COwb5ffOdChdTkXin3ZOpBnYcsM80soLFpABEGnbWEdhby6qH0Uc2yZHhJ+2/SwVu28Q==
+# SIGN: kfpthaj6o//Nv2QzNtDEuSxbyDT8jtD7Ozq+br1Cg3k6kKKuq/TSjCWJQvk0MB3pErwtWLLqIqt5PgEwOpvqjg==
