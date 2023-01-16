@@ -78,9 +78,8 @@ https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
 	size=18866476
 
 /cftest/index.html
-	https://ceabq.top/cftest/index.html
-	https://ceabq.top/cftest/
 	https://b-d2u0.pages.dev/cftest/
+	https://bstore.ceabq.top/blog_site/temporary/cftest.html
 	hash=mjqqEWqeuNxQCvDNgtfSXzFTwTcIGqedbhJJFmKwefc=
 
 /css/gitalk.css
@@ -160,4 +159,4 @@ https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/xml/local-search.xml
 	hash=BAPZJX1Xob9YdqYi6apdLr+d1tsp/RGbF8KqJGNQ61c=
 
-# SIGN: GPLXyVtGVBjhTmewraIWQXlSygrNGgAs1+5Moy95YN9qw5G2FbYeCCEJ5E1POYUE+6ZbYjBgm2nyUhWez07I/g==
+# SIGN: deOIecMwIalwWRTWE+COwb5ffOdChdTkXin3ZOpBnYcsM80soLFpABEGnbWEdhby6qH0Uc2yZHhJ+2/SwVu28Q==
