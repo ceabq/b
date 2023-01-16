@@ -83,6 +83,18 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/css/gitalk.css
 	hash=kEQ8Mgp+NA48oKEDd/U6372tByPgy9LM8+AkSy5lROg=
 
+/css/highlight-dark.css
+	https://bstore.ceabq.top/blog_site/site_assets/css/highlight-dark.css
+	hash=yAx2PgOyFsdtrDygGbVOE8bWCjOwEhAkHBKfIGH6fXo=
+
+/css/highlight.css
+	https://bstore.ceabq.top/blog_site/site_assets/css/highlight.css
+	hash=X12yRYVJ+Lht6XOs19XXsm/1QTwH8mqj9CsFS5Q8NEg=
+
+/css/main.css
+	https://bstore.ceabq.top/blog_site/site_assets/css/main.css
+	hash=otZCQD2B+l9JuvgFYatZRwuSxbIBFFWde0/9kly4Gwo=
+
 /favicon.ico
 	https://ceabq.top/favicon.ico
 	https://bstore.ceabq.top/blog_site/site_assets/img/favicon.ico
@@ -110,8 +122,36 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/img/loading.gif
 	hash=SksIG+4jig+4C/I/UGvqhSv9L882EqowwLJw1G23paA=
 
+/js/boot.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/boot.js
+	hash=KCY7CHrA6m7yHTLr8Be/ToiIJMXEUqVGh8vBnJCQcUs=
+
+/js/color-schema.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/color-schema.js
+	hash=AW/lj/5pqBnTSQbEGfzoenrO8aKGpskIqmv6Cn5z8t8=
+
+/js/events.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/events.js
+	hash=ts9L9G9Lus+Txqa2uBkpIvj3v5bPzmBlJVicOmh6ItY=
+
 /js/img-lazyload.js
 	https://bstore.ceabq.top/blog_site/site_assets/js/img-lazyload.js
 	hash=Rz/IOkHbA6URVrDSY1hzbWYHBmytKiNVsAh7NBQOjrE=
 
-# SIGN: 0ZRsQZ2lUV24kCVE/H9sJnEq8/nIdmfD9PQzieWhBslFiaw7vlhXUCUgUk6C5/djXLS8jJWESI4OUiVjFr6xnQ==
+/js/leancloud.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/leancloud.js
+	hash=/yzz9tnFUpoNa3QI85HPXKT8sO//wJ4ygPdQMeZvius=
+
+/js/local-search.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/local-search.js
+	hash=8wrCTnWhbPH/YPuONhi/+lsR6NyrjqonDwQY9a8yBIg=
+
+/js/plugins.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/plugins.js
+	hash=vQCH2pqYvb0TO8fjPGiv6m4d7qbd/F8cWaETSItjTfg=
+
+/js/utils.js
+	https://bstore.ceabq.top/blog_site/site_assets/js/utils.js
+	hash=Cd9f2UuVYB2HWTjrdwv9ADK57z2N+hz8rBw/t3LyyM0=
+
+# SIGN: fUel+4cOKEkrYZMTq9SHdLIp252i6gUJYcu0j2fP8mnukracR/ypDi1ElHcCBFxiE88Y4jPt8wKpnTmS7rrAMQ==
