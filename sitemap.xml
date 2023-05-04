@@ -4,43 +4,7 @@
   <url>
     <loc>https://ceabq.top/about/index.html</loc>
     
-    <lastmod>2023-01-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ceabq.top/test.html</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ceabq.top/cftest/index.html</loc>
-    
-    <lastmod>2021-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ceabq.top/2021/07/18/awesome-apps-webs/</loc>
-    
-    <lastmod>2021-08-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ceabq.top/categories/index.html</loc>
-    
-    <lastmod>2021-05-27</lastmod>
+    <lastmod>2023-05-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +13,43 @@
   <url>
     <loc>https://ceabq.top/search/index.html</loc>
     
-    <lastmod>2021-05-24</lastmod>
+    <lastmod>2023-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ceabq.top/cftest/index.html</loc>
+    
+    <lastmod>2023-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ceabq.top/categories/index.html</loc>
+    
+    <lastmod>2023-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ceabq.top/test.html</loc>
+    
+    <lastmod>2023-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ceabq.top/2021/07/18/awesome-apps-webs/</loc>
+    
+    <lastmod>2023-05-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
 
   <url>
     <loc>https://ceabq.top/</loc>
-    <lastmod>2023-01-16</lastmod>
+    <lastmod>2023-05-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,7 +66,7 @@
   
   <url>
     <loc>https://ceabq.top/tags/awesome/</loc>
-    <lastmod>2023-01-16</lastmod>
+    <lastmod>2023-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
