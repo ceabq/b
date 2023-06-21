@@ -167,7 +167,7 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 
 /index.html
 	https://bstore.ceabq.top/blog_site/site_assets/index.html
-	hash=0NxKGMfCclfPdmbs9yASYihlijbYltPgPF2lxrJ3OAY=
+	hash=FOSFWqiv9sHLcYeAXA8/B3H7ZCSpSexJFJnA1uWOOes=
 
 /js/boot.js
 	https://bstore.ceabq.top/blog_site/site_assets/js/boot.js
@@ -217,6 +217,10 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/search/index.html
 	hash=9kDOya92DjXK+R7jWTH3mKNUvMGKHeoR/YcySv1qQG4=
 
+/sitemap.xml
+	https://bstore.ceabq.top/blog_site/site_assets/sitemap.xml
+	hash=eH7zxJfQsRUovYLtbEM2Kco8go4FXF6SGmBCMsOyIp0=
+
 /tags/awesome/index.html
 	https://bstore.ceabq.top/blog_site/site_assets/tags/awesome/index.html
 	hash=g/5Af18Yz8/nryhzBEIl8xb2uJdn3uD+u2MnzQVuxgs=
@@ -237,4 +241,4 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/xml/local-search.xml
 	hash=BAPZJX1Xob9YdqYi6apdLr+d1tsp/RGbF8KqJGNQ61c=
 
-# SIGN: VXIg/DFQaCWHTgFJ7pBcOHQgdRXKkre251UzhxzFRtRa2fCYVsUjamcCyBeNahvrnuBEkwv+2pny2oHSImsZHQ==
+# SIGN: HIRgCTJPz/5bpi0X5Q9BbTg30LNanqa0kiqVHQ0/RLyzpXwIDwYxVqI/xonJDq0wjXC5BtplkjMP1aHWVK7RVw==
