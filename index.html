@@ -365,7 +365,7 @@
       
         jQuery.ajax({
           type: 'GET',
-          url: 'https://animechan.vercel.app/api/random',
+          url: '',
           headers: {},
           dataType: 'json',
           success: function(result) {
@@ -389,7 +389,7 @@
           },
           error: function(xhr, status, error) {
             if (error) {
-              console.error('Failed to request https://animechan.vercel.app/api/random:', error);
+              console.error('Failed to request :', error);
             }
             typing(text);
           }
