@@ -236,3 +236,5 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 /xml/local-search.xml
 	https://bstore.ceabq.top/blog_site/site_assets/xml/local-search.xml
 	hash=BAPZJX1Xob9YdqYi6apdLr+d1tsp/RGbF8KqJGNQ61c=
+
+# SIGN: StIigLBDcz463bTMVr123NqoZRnZ9CW8wdrSxTUagl79d0oYzDvZHyU4JX88yPWuLihjaEVV7HC+Y3ikLxS+PA==
