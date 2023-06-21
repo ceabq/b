@@ -73,46 +73,10 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 	https://cdn.bootcdn.net/ajax/libs/typed.js/2.0.12/typed.min.js
 	hash=UVQ5HtHTmtqBT3KY5cd4AvI47pp0gJwIM+q45HD9oLk=
 
-/2021/07/18/awesome-apps-webs/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/2021/07/18/awesome-apps-webs/index.html
-	hash=woSxWcO9QSf2lC4edko3rYE/DzXxLsQYSwC1jT1s3x4=
-
-/2021/09/25/someacg-shi-yong-zhi-nan/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/2021/09/25/someacg-shi-yong-zhi-nan/index.html
-	hash=CGgfblh/pReBTgFD/EtVWFLHJ/IDEoqROAoe/pNK7tU=
-
-/404.html
-	https://bstore.ceabq.top/blog_site/site_assets/404.html
-	hash=Ohg+vUwVi6dZcBvG6eE1cRhaL7+9BTeg1WPCO4WKZwc=
-
-/about/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/about/index.html
-	hash=ntPI1HKp9vN0u0oTUDAElNSqGil0Hv5wLI4RtDosIeU=
-
-/archives/2021/07/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/archives/2021/07/index.html
-	hash=M7Tqta1Hb7mrRleHUPz3v5KLM0JbVpAaLJqOQFDe5Ts=
-
-/archives/2021/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/archives/2021/index.html
-	hash=pkmtBQLsii0a/GwJT9+m4yaz8Y6A5Be1GT4VjaHY12E=
-
-/archives/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/archives/index.html
-	hash=SGu4VFHM+29PzNcWJyJQ5mfp+bIDhgaMxhUG1/ixSBc=
-
-/categories/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/categories/index.html
-	hash=OliDTuk9wDntZLWBfNkkCA/pVMgNAmYi75q0DW0zAuk=
-
 /cftest/88374463_p0.png
 	https://bstore.ceabq.top/blog_site/site_assets/cftest/88374463_p0.png
 	hash=1048576;ZhmoA/QO/mvPEDr4axCgKg0S/ycyelXCYXh2cFjgptU=,JXK0FtqfJ3YnbZd2t84M1P4c45npicTJnq/EU8funDI=,Z9Aeg2wZrixIL0aAT/zwmFj8pc+GoAomu1xiDa3h99w=,e6bWBeyz0WCO7ADJxXodNOO87rEiEYCvIGLWKy1PsMw=,BsUkSrvinEhusbnes2q1eC26hPNxbPC+OLI0aQRfhv0=,UhufgvklheH6gd2RgGuPbC9zuH1C3JjR4stqJUfTRBY=,rgCigAj6YGjzPPHHm6RSCjm8UDLGVpBgQ3m87My+Kx4=,lPX6Pn7hiFOMKzzLsgFxMqQOOjWnGaQmBPGw1+JNPqw=,/DgH36O45awFlBTume9NKSOR9nGywM7SB3KzgbIg4bo=,mrZGosx3waOzeFv/SJqNw9FqavSB/cvhvPynlqv5Sjo=,/gzx4+UzClVHKgaNBj04RmMPDhf346a6LZpMoVIBKEQ=,UT9x67BM1/HDu6ymF0IAokB3InPPE2YCdI2a933XVBM=,MBDw+G55p3FMPPnN1LSiLfrI2/sAK2ssZSSMeEeM4bs=,1tdXzN0AHoBEWGymdSAy3sBu5WJAkKKyVKhsymtsErg=,CqW20mUu9xshcbpM9uzVLriLK+W6BHTM+yfhgOXcCJI=,FZ8ePhzpzS6RBODAE+EdcxvSfj2IuysHmzaTowdFtzk=,yxKvQn7ZnTNX8ZocwPxnf0UtQd9JpCyZj0j0p+3WCTQ=,EO+inRl1rBlU2+Y+qb+Ib3Q2ThWAKcVspkviROsuqFQ=
 	size=18866476
-
-/cftest/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/cftest/index.html
-	hash=2WUIWa/QFjlP6ybMyTCJ3bBUJCMFcI471ruIhexzYXE=
 
 /css/gitalk.css
 	https://bstore.ceabq.top/blog_site/site_assets/css/gitalk.css
@@ -161,14 +125,6 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/img/loading.gif
 	hash=SksIG+4jig+4C/I/UGvqhSv9L882EqowwLJw1G23paA=
 
-/img/police_beian.png
-	https://bstore.ceabq.top/blog_site/site_assets/img/police_beian.png
-	hash=eIye1tP3TvRUQLBKl6RgdBwg4Jb61N1BsVyDTfNQBzA=
-
-/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/index.html
-	hash=FOSFWqiv9sHLcYeAXA8/B3H7ZCSpSexJFJnA1uWOOes=
-
 /js/boot.js
 	https://bstore.ceabq.top/blog_site/site_assets/js/boot.js
 	hash=KCY7CHrA6m7yHTLr8Be/ToiIJMXEUqVGh8vBnJCQcUs=
@@ -201,10 +157,6 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/js/utils.js
 	hash=Cd9f2UuVYB2HWTjrdwv9ADK57z2N+hz8rBw/t3LyyM0=
 
-/links/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/links/index.html
-	hash=Uu7FRF9Ha+3Z02irQOluHmmHKqbGt44cV8gMRRyTQ+0=
-
 /local-search.xml
 	https://bstore.ceabq.top/blog_site/site_assets/local-search.xml
 	hash=VeAhruWfdCmc7GwvqRlj1Ps5wxC5wXL5s2J9E9d1Mwg=
@@ -213,25 +165,9 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/robots.txt
 	hash=mQLDm7TjPdBv+/Kw+10ma3M1P4ar+++5rbIPTAWp7AQ=
 
-/search/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/search/index.html
-	hash=9kDOya92DjXK+R7jWTH3mKNUvMGKHeoR/YcySv1qQG4=
-
 /sitemap.xml
 	https://bstore.ceabq.top/blog_site/site_assets/sitemap.xml
 	hash=eH7zxJfQsRUovYLtbEM2Kco8go4FXF6SGmBCMsOyIp0=
-
-/tags/awesome/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/tags/awesome/index.html
-	hash=g/5Af18Yz8/nryhzBEIl8xb2uJdn3uD+u2MnzQVuxgs=
-
-/tags/index.html
-	https://bstore.ceabq.top/blog_site/site_assets/tags/index.html
-	hash=3zYH9NRHFqaI/Od7A9fholCZeFIKXr9jkNDxGHGfFO0=
-
-/test.html
-	https://bstore.ceabq.top/blog_site/site_assets/test.html
-	hash=3c2mB0M+Ej3qr6IUDz3moFh9gR6Q2pqtCKu6hUN8OCs=
 
 /urlboost.txt
 	https://bstore.ceabq.top/blog_site/site_assets/urlboost.txt
@@ -241,4 +177,4 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/xml/local-search.xml
 	hash=BAPZJX1Xob9YdqYi6apdLr+d1tsp/RGbF8KqJGNQ61c=
 
-# SIGN: HIRgCTJPz/5bpi0X5Q9BbTg30LNanqa0kiqVHQ0/RLyzpXwIDwYxVqI/xonJDq0wjXC5BtplkjMP1aHWVK7RVw==
+# SIGN: CvLxp5MwT88vD17mRjT8O9Cdk/OS8K8aJPnpmbl13owa124FtjztLUU9KTtSU7MOq9AlL0nmJ/gUIFtfWRiHwQ==
