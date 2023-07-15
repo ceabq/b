@@ -18,24 +18,33 @@
   <meta name="author" content="Ceabq">
   <meta name="keywords" content="ceabq blog">
   
-    <meta name="description" content="Hey,here are some awesome apps and websites.">
+    <meta name="description" content="这篇指南会指导你如何搭建minio, 配置用户和bucket">
 <meta property="og:type" content="article">
-<meta property="og:title" content="awesome-apps-webs">
-<meta property="og:url" content="https://ceabq.top/2021/07/18/awesome-apps-webs/index.html">
+<meta property="og:title" content="minio配置指南-2023">
+<meta property="og:url" content="https://ceabq.top/2023/07/14/minio-pei-zhi-zhi-nan-2023/index.html">
 <meta property="og:site_name" content="Ceabq&#39;s blog">
-<meta property="og:description" content="Hey,here are some awesome apps and websites.">
+<meta property="og:description" content="这篇指南会指导你如何搭建minio, 配置用户和bucket">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2021-07-18T21:45:21.000Z">
-<meta property="article:modified_time" content="2023-05-02T07:15:56.180Z">
+<meta property="og:image" content="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714191922934.png">
+<meta property="og:image" content="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714192237752.png">
+<meta property="og:image" content="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714192309769.png">
+<meta property="og:image" content="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714195121560.png">
+<meta property="og:image" content="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714200015598.png">
+<meta property="og:image" content="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714200055055.png">
+<meta property="og:image" content="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714200508210.png">
+<meta property="og:image" content="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714201107013.png">
+<meta property="article:published_time" content="2023-07-15T03:16:35.831Z">
+<meta property="article:modified_time" content="2023-07-15T03:19:52.751Z">
 <meta property="article:author" content="Ceabq">
-<meta property="article:tag" content="awesome">
+<meta property="article:tag" content="ceabq blog">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714191922934.png">
   
   
   
     <script src="/freecdn-loader.min.js"></script>
   
-  <title>awesome-apps-webs - Ceabq&#39;s blog</title>
+  <title>minio配置指南-2023 - Ceabq&#39;s blog</title>
 
   <link  rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
 
@@ -213,7 +222,7 @@
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle" data-typed-text="awesome-apps-webs"></span>
+            <span id="subtitle" data-typed-text="minio配置指南-2023"></span>
           
         </div>
 
@@ -224,8 +233,8 @@
     
       <span class="post-meta">
         <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-        <time datetime="2021-07-18 14:45" pubdate>
-          2021年7月18日 下午
+        <time datetime="2023-07-14 20:16" pubdate>
+          2023年7月14日 晚上
         </time>
       </span>
     
@@ -236,7 +245,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          195 字
+          1.4k 字
         
       </span>
     
@@ -247,7 +256,7 @@
         
         
         
-          2 分钟
+          12 分钟
         
       </span>
     
@@ -285,14 +294,40 @@
         <div id="board">
           <article class="post-content mx-auto">
             <!-- SEO header -->
-            <h1 style="display: none">awesome-apps-webs</h1>
+            <h1 style="display: none">minio配置指南-2023</h1>
             
             
               <div class="markdown-body">
                 
-                <p>Hey,here are some awesome apps and websites.</p>
+                <p>这篇指南会指导你如何搭建minio, 配置用户和bucket</p>
 <span id="more"></span>
-<p><a href="ish.app">ish</a><br>(ios shell simulator,open source)<br><a href="zerotier.com">zerotier</a><br>(a powerful tool connect devices)<br><a href="dns.he.net">dns.he.net</a><br>(free and fast dns)<br><a href="ipv6.he.net">ipv6.he.net</a><br>(free ipv6 access)<br><a href="cloudflare.com">cloudflare</a><br>(fast cdn, global friendly)</p>
+<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs shell">wget https://dl.min.io/server/minio/release/linux-amd64/minio<br>chmod +x minio<br>MINIO_ROOT_USER=admin MINIO_ROOT_PASSWORD=password ./minio server /mnt/data --console-address &quot;:9001&quot;<br></code></pre></td></tr></table></figure>
+
+<p>其中第一行下载 minio的执行文件, 第二行使用chmod使文件可执行. 第三行中的admin为管理员, password为管理员的密码, &#x2F;mnt&#x2F;data 为 minio 储存数据的文件夹, console-address 为 <strong>webui的地址</strong>,在上面的示例中会绑定到 <strong>所有ip的</strong> 9001 端口. </p>
+<p><strong>为了安全, 一定需要替换admin 和 password, 最好也替换端口</strong> </p>
+<h5 id="WebUI"><a href="#WebUI" class="headerlink" title="WebUI"></a>WebUI</h5><p>如果在访问端口后看到这样的页面就成功了</p>
+<img src="https://bstore.ceabq.top/blog_site/blog_images/minio配置指南-2023/image-20230714191922934.png" srcset="/img/loading.gif" lazyload alt="image-20230714191922934"  />
+
+<h3 id="创建Bucket"><a href="#创建Bucket" class="headerlink" title="创建Bucket"></a>创建Bucket</h3><p><img src="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714192237752.png" srcset="/img/loading.gif" lazyload alt="image-20230714192237752"></p>
+<p><img src="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714192309769.png" srcset="/img/loading.gif" lazyload alt="image-20230714192309769"></p>
+<p>可以开启quota, 限制一个bucket的储存容量. 输入bucket name 后点 Create Bucket 你就成功创建一个 Bucket了</p>
+<h3 id="用户和bucket"><a href="#用户和bucket" class="headerlink" title="用户和bucket"></a>用户和bucket</h3><p>那如果我们想要创建个账号给朋友玩怎么办呢? 这时候就可以创建一个用户然后分给他们一个 Bucket 了</p>
+<p>在 Minio 中, 如果要限制用户只访问单一 Bucket 的话, 需要使用Policy, 因为 Minio 里没有谁拥有 Bucket 的概念. Policy定义了用户的权限大小, 通过 Policy 我们可以将自己想要的 Bucket 分配给特定用户. </p>
+<h4 id="创建Policy"><a href="#创建Policy" class="headerlink" title="创建Policy"></a>创建Policy</h4><p><img src="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714195121560.png" srcset="/img/loading.gif" lazyload alt="image-20230714195121560"></p>
+<figure class="highlight prolog"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs prolog">&#123;<br>    <span class="hljs-string">&quot;Version&quot;</span>: <span class="hljs-string">&quot;2012-10-17&quot;</span>,<br>    <span class="hljs-string">&quot;Statement&quot;</span>: [<br>        &#123;<br>            <span class="hljs-string">&quot;Effect&quot;</span>: <span class="hljs-string">&quot;Allow&quot;</span>,<br>            <span class="hljs-string">&quot;Action&quot;</span>: [<br>                <span class="hljs-string">&quot;s3:*&quot;</span><br>            ],<br>            <span class="hljs-string">&quot;Resource&quot;</span>: [<br>                <span class="hljs-string">&quot;arn:aws:s3:::*&quot;</span><br>            ]<br>        &#125;<br>    ]<br>&#125;<br></code></pre></td></tr></table></figure>
+
+<p>其中 “arn:aws:s3:::*” 规定了用户可访问的 Bucket, * 为全部. </p>
+<p>“arn:aws:s3:::” 的格式为 arn:aws:s3:::Bucket名&#x2F;文件夹或文件</p>
+<p><u>需要注意的一点是如果你想让用户访问整个Bucket应该写成arn:aws:s3:::Bucket名&#x2F;* 而不是 arn:aws:s3:::Bucket名</u></p>
+<p>配置文件的 “Effect”: “Allow” 和 “s3:*” 允许这个Policy的用户访问和修改 Resource定义中的 arn:aws:s3:::Bucket名&#x2F;文件夹或文件</p>
+<h4 id="创建用户并分配Policy"><a href="#创建用户并分配Policy" class="headerlink" title="创建用户并分配Policy"></a>创建用户并分配Policy</h4><p><img src="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714200015598.png" srcset="/img/loading.gif" lazyload alt="image-20230714200015598"></p>
+<p><img src="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714200055055.png" srcset="/img/loading.gif" lazyload alt="image-20230714200055055"></p>
+<p>在输入完用户名和密码后点 Assign Policies, 选择刚刚创建的Policy</p>
+<p>退出Minio, 登陆刚刚创建的用户, 你就会发现成功了</p>
+<p><img src="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714200508210.png" srcset="/img/loading.gif" lazyload alt="image-20230714200508210"></p>
+<p>然后就配置完了, 可以从 Webui 传点文件玩. 也可以把这个额外的账号分享给你的好朋友用</p>
+<p><img src="https://bstore.ceabq.top/blog_site/blog_images/minio%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97-2023/image-20230714201107013.png" srcset="/img/loading.gif" lazyload alt="image-20230714201107013"></p>
+<h3 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h3><p>我个人其实是不推荐使用 Minio 的, 虽然Self host的诱惑很大, 但是实际上 Minio 十分吃内存, 并且也没有比 backblaze 和 cloudflare r2 便宜</p>
 
                 
               </div>
@@ -302,13 +337,6 @@
               <div class="post-metas my-3">
   
   
-    <div class="post-meta">
-      <i class="iconfont icon-tags"></i>
-      
-        <a href="/tags/awesome/">#awesome</a>
-      
-    </div>
-  
 </div>
 
 
@@ -317,8 +345,8 @@
 
   <div class="license-box my-3">
     <div class="license-title">
-      <div>awesome-apps-webs</div>
-      <div>https://ceabq.top/2021/07/18/awesome-apps-webs/</div>
+      <div>minio配置指南-2023</div>
+      <div>https://ceabq.top/2023/07/14/minio-pei-zhi-zhi-nan-2023/</div>
     </div>
     <div class="license-meta">
       
@@ -330,7 +358,7 @@
       
         <div class="license-meta-item license-meta-date">
           <div>发布于</div>
-          <div>2021年7月18日</div>
+          <div>2023年7月14日</div>
         </div>
       
       
@@ -368,15 +396,15 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/2023/07/14/minio-pei-zhi-zhi-nan-2023/" title="minio配置指南-2023">
-                        <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">minio配置指南-2023</span>
-                        <span class="visible-mobile">上一篇</span>
-                      </a>
-                    
                   </article>
                   <article class="post-next col-6">
                     
+                    
+                      <a href="/2021/07/18/awesome-apps-webs/" title="awesome-apps-webs">
+                        <span class="hidden-mobile">awesome-apps-webs</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
                     
                   </article>
                 </div>
