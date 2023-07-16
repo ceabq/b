@@ -181,4 +181,20 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/xml/local-search.xml
 	hash=BAPZJX1Xob9YdqYi6apdLr+d1tsp/RGbF8KqJGNQ61c=
 
-# SIGN: XgIq1LIGDli+f6VRvuICHBuT3QYeL2/mCNlCMTQVxnbBUJg/011acyUrnAzoiuDmsfJp5ldK02SHP2RVKZ/Vag==
+blog_images/minio配置指南-2023/image-20230714200508210.png.webp
+
+blog_images/minio配置指南-2023/image-20230714200055055.png.webp
+
+blog_images/minio配置指南-2023/image-20230714191922934.png.webp
+
+blog_images/minio配置指南-2023/image-20230714201107013.png.webp
+
+blog_images/minio配置指南-2023/image-20230714192309769.png.webp
+
+blog_images/minio配置指南-2023/image-20230714200015598.png.webp
+
+blog_images/minio配置指南-2023/image-20230714192237752.png.webp
+
+blog_images/minio配置指南-2023/image-20230714195121560.png.webp
+
+# SIGN: zdx00YybsOv/gszE6ZAvFGRQFLAI8ovFk39yHRmP5XwzcNzsNN3rPdSwgbC54eGCys7RnT5PiCv+78xJ+/0wYQ==
