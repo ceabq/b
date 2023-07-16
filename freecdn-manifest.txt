@@ -181,4 +181,4 @@ https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js
 	https://bstore.ceabq.top/blog_site/site_assets/xml/local-search.xml
 	hash=BAPZJX1Xob9YdqYi6apdLr+d1tsp/RGbF8KqJGNQ61c=
 
-# SIGN: rvNVzIOJCGYkPtHNmjJ+1FEDKxsm58gCYZFs65AMHpZJ/K5FuA/h7wK6afLMrX/Eyi4KpU/uA8GFw0DmO+P8bg==
+# SIGN: XgIq1LIGDli+f6VRvuICHBuT3QYeL2/mCNlCMTQVxnbBUJg/011acyUrnAzoiuDmsfJp5ldK02SHP2RVKZ/Vag==
